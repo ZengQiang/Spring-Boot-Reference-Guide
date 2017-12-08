@@ -516,7 +516,6 @@
       * [80.11.1 内嵌Servlet容器兼容性](IX. ‘How-to’ guides/80.11.1 Embedded servlet container compatibility.md)
       * [80.11.2 Jackson](IX. ‘How-to’ guides/80.11.2 Jackson.md)
       * [80.11.3 JTA API兼容性](IX. ‘How-to’ guides/80.11.3 JTA API compatibility.md)
-  * HTTP客户端
 * [X.附录](X. Appendices/README.md)
   * [附录A. 常见应用属性](X. Appendices/A. Common application properties.md)
   * [附录B. 配置元数据](X. Appendices/B. Configuration meta-data.md)
