@@ -103,7 +103,7 @@
       * [24.6.3. Multi-profile YAML文档](IV. Spring Boot features/24.6.3. Multi-profile YAML documents.md)
       * [24.6.4. YAML缺点](IV. Spring Boot features/24.6.4. YAML shortcomings.md)
       * [24.6.5 合并YAML列表](IV. Spring Boot features/24.6.5 Merging YAML lists.md)
-    * [24.7. 类型安全的配置属性](IV. Spring Boot features/24.7. Typesafe Configuration Properties.md)
+    * [24.7. 类型安全的配置属性](IV. Spring Boot features/24.7. Type-safe Configuration Properties.md)
       * [24.7.1. 第三方配置](IV. Spring Boot features/24.7.1. Third-party configuration.md)
       * [24.7.2. Relaxed绑定](IV. Spring Boot features/24.7.2. Relaxed binding.md)
       * [24.7.3 属性转换](IV. Spring Boot features/24.7.3 Properties conversion.md)
